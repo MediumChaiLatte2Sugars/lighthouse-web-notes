@@ -2,4 +2,4 @@
 
 ## Summary
 
-This repo is a collection of Khalil's notes during the LHL Web Development Bootcamp
+This repo is a collection of [Khalil's](https://github.com/MediumChaiLatte2Sugars) notes during the LHL Web Development Bootcamp
