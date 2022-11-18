@@ -1,3 +1,5 @@
 # Khalil's notes
 
-### Adding another text tidbit for demo purposes
+## Summary
+
+This repo is a collection of Khalil's notes during the LHL Web Development Bootcamp
